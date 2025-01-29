@@ -51,3 +51,6 @@ Pull requests and issues are welcome. Feel free to propose new features or repor
 
 ## License
 This project is available under the MIT License. See the LICENSE file for details.
+
+## Publication
+Yuki Iimori, Teppei Morita, Takeshi Masuda, Shojiro Kitajima, Nobuaki Kono, Shun Kageyama, Josephine Galipon, Atsuo T. Sasaki, Akio Kanai, SLFN11-mediated tRNA regulation induces cell death by disrupting proteostasis in response to DNA-damaging agents, bioRxiv, 2025.01.08.632070; doi: https://doi.org/10.1101/2025.01.08.632070
